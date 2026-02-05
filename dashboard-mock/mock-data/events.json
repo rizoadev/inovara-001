@@ -1,0 +1,210 @@
+[
+  {
+    "id": "evt-001",
+    "title": "Tech Conference 2024",
+    "slug": "tech-conf-2024",
+    "description": "Annual technology conference featuring the latest innovations in AI, blockchain, and cloud computing. Join industry leaders and innovators for two days of inspiring talks, workshops, and networking.",
+    "event_date": "2024-06-15T09:00:00",
+    "location": "Jakarta Convention Center",
+    "image": "/images/event1.jpg",
+    "is_active": true,
+    "created_at": "2024-01-01T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-001",
+        "name": "Regular",
+        "price": 500000,
+        "quota": 100,
+        "sold": 45,
+        "available": 55
+      },
+      {
+        "id": "tkt-002",
+        "name": "VIP",
+        "price": 1000000,
+        "quota": 50,
+        "sold": 20,
+        "available": 30
+      }
+    ]
+  },
+  {
+    "id": "evt-002",
+    "title": "Workshop AI & Machine Learning",
+    "slug": "workshop-ai-ml-2024",
+    "description": "Hands-on workshop covering fundamentals of AI and Machine Learning. Learn to build your first ML model, understand neural networks, and explore real-world applications.",
+    "event_date": "2024-07-20T10:00:00",
+    "location": "Surabaya Tech Hub",
+    "image": "/images/event2.jpg",
+    "is_active": true,
+    "created_at": "2024-01-05T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-003",
+        "name": "Regular",
+        "price": 750000,
+        "quota": 50,
+        "sold": 30,
+        "available": 20
+      }
+    ]
+  },
+  {
+    "id": "evt-003",
+    "title": "Startup Summit 2024",
+    "slug": "startup-summit-2024",
+    "description": "Connect with investors, mentors, and fellow entrepreneurs. Pitch your ideas, learn from successful founders, and discover funding opportunities.",
+    "event_date": "2024-08-10T09:00:00",
+    "location": "Bandung Creative Hub",
+    "image": "/images/event3.jpg",
+    "is_active": true,
+    "created_at": "2024-01-10T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-004",
+        "name": "Attendee",
+        "price": 300000,
+        "quota": 200,
+        "sold": 85,
+        "available": 115
+      },
+      {
+        "id": "tkt-005",
+        "name": "Startup Booth",
+        "price": 2000000,
+        "quota": 20,
+        "sold": 12,
+        "available": 8
+      }
+    ]
+  },
+  {
+    "id": "evt-004",
+    "title": "Digital Marketing Masterclass",
+    "slug": "digital-marketing-masterclass",
+    "description": "Master the art of digital marketing with hands-on training in SEO, social media marketing, content strategy, and analytics. Perfect for marketers and business owners.",
+    "event_date": "2024-09-05T13:00:00",
+    "location": "Bali Digital Hub",
+    "image": "/images/event4.jpg",
+    "is_active": true,
+    "created_at": "2024-01-15T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-006",
+        "name": "Early Bird",
+        "price": 450000,
+        "quota": 80,
+        "sold": 65,
+        "available": 15
+      },
+      {
+        "id": "tkt-007",
+        "name": "Regular",
+        "price": 600000,
+        "quota": 120,
+        "sold": 40,
+        "available": 80
+      }
+    ]
+  },
+  {
+    "id": "evt-005",
+    "title": "Blockchain & Web3 Summit",
+    "slug": "blockchain-web3-summit",
+    "description": "Explore the future of decentralized technology. Learn about blockchain, NFTs, DeFi, and Web3 from industry experts and developers.",
+    "event_date": "2024-10-12T09:00:00",
+    "location": "Jakarta Blockchain Center",
+    "image": "/images/event5.jpg",
+    "is_active": true,
+    "created_at": "2024-01-20T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-008",
+        "name": "General Admission",
+        "price": 800000,
+        "quota": 150,
+        "sold": 92,
+        "available": 58
+      },
+      {
+        "id": "tkt-009",
+        "name": "Premium",
+        "price": 1500000,
+        "quota": 50,
+        "sold": 28,
+        "available": 22
+      }
+    ]
+  },
+  {
+    "id": "evt-006",
+    "title": "UX/UI Design Workshop",
+    "slug": "ux-ui-design-workshop",
+    "description": "Learn user experience and interface design principles. Create stunning designs, conduct user research, and build prototypes using industry-standard tools.",
+    "event_date": "2024-11-08T10:00:00",
+    "location": "Yogyakarta Design Studio",
+    "image": "/images/event6.jpg",
+    "is_active": true,
+    "created_at": "2024-01-25T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-010",
+        "name": "Workshop Pass",
+        "price": 850000,
+        "quota": 40,
+        "sold": 22,
+        "available": 18
+      }
+    ]
+  },
+  {
+    "id": "evt-007",
+    "title": "Cloud Computing Conference",
+    "slug": "cloud-computing-conference",
+    "description": "Deep dive into cloud architecture, DevOps practices, and modern infrastructure. Learn AWS, Azure, and GCP best practices from certified professionals.",
+    "event_date": "2024-12-01T09:00:00",
+    "location": "Surabaya Tech Park",
+    "image": "/images/event7.jpg",
+    "is_active": true,
+    "created_at": "2024-02-01T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-011",
+        "name": "Standard",
+        "price": 700000,
+        "quota": 100,
+        "sold": 55,
+        "available": 45
+      },
+      {
+        "id": "tkt-012",
+        "name": "Professional",
+        "price": 1200000,
+        "quota": 60,
+        "sold": 35,
+        "available": 25
+      }
+    ]
+  },
+  {
+    "id": "evt-008",
+    "title": "Mobile App Development Bootcamp",
+    "slug": "mobile-app-bootcamp",
+    "description": "Intensive 3-day bootcamp covering React Native and Flutter. Build cross-platform mobile apps from scratch with expert guidance.",
+    "event_date": "2025-01-15T09:00:00",
+    "location": "Bandung Tech Academy",
+    "image": "/images/event8.jpg",
+    "is_active": true,
+    "created_at": "2024-02-05T00:00:00",
+    "tickets": [
+      {
+        "id": "tkt-013",
+        "name": "Bootcamp Pass",
+        "price": 2500000,
+        "quota": 30,
+        "sold": 18,
+        "available": 12
+      }
+    ]
+  }
+]

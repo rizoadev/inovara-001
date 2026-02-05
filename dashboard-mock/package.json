@@ -1,0 +1,29 @@
+{
+  "name": "newxtbot-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/icon": "^1.0.0",
+    "@nuxt/ui": "^2.22.0",
+    "@tanstack/vue-query": "^5.60.0",
+    "chart.js": "^4.4.0",
+    "jsqr": "^1.4.0",
+    "nuxt": "^3.14.0",
+    "qrcode": "^1.5.4",
+    "vue": "^3.5.0",
+    "vue-chartjs": "^5.3.0",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.0",
+    "typescript": "^5.6.0"
+  }
+}

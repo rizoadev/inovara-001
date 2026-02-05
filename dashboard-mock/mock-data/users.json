@@ -1,0 +1,112 @@
+[
+  {
+    "id": "usr-001",
+    "email": "admin@eventhub.id",
+    "password": "admin123",
+    "full_name": "Admin EventHub",
+    "phone": "08123456789",
+    "role": "admin",
+    "is_active": true,
+    "created_at": "2024-01-01T00:00:00"
+  },
+  {
+    "id": "usr-002",
+    "email": "john@example.com",
+    "password": "pass123",
+    "full_name": "John Doe",
+    "phone": "08123456790",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-01-15T10:30:00"
+  },
+  {
+    "id": "usr-003",
+    "email": "jane@example.com",
+    "password": "pass456",
+    "full_name": "Jane Smith",
+    "phone": "08198765432",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-01-20T14:20:00"
+  },
+  {
+    "id": "usr-004",
+    "email": "michael@example.com",
+    "password": "pass789",
+    "full_name": "Michael Chen",
+    "phone": "08156789012",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-01-22T09:15:00"
+  },
+  {
+    "id": "usr-005",
+    "email": "sarah@example.com",
+    "password": "pass321",
+    "full_name": "Sarah Williams",
+    "phone": "08187654321",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-01-25T16:45:00"
+  },
+  {
+    "id": "usr-006",
+    "email": "david@example.com",
+    "password": "pass654",
+    "full_name": "David Anderson",
+    "phone": "08134567890",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-01-28T11:20:00"
+  },
+  {
+    "id": "usr-007",
+    "email": "lisa@example.com",
+    "password": "pass987",
+    "full_name": "Lisa Martinez",
+    "phone": "08145678901",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-02-01T14:30:00"
+  },
+  {
+    "id": "usr-008",
+    "email": "robert@example.com",
+    "password": "pass147",
+    "full_name": "Robert Taylor",
+    "phone": "08167890123",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-02-03T10:00:00"
+  },
+  {
+    "id": "usr-009",
+    "email": "emily@example.com",
+    "password": "pass258",
+    "full_name": "Emily Johnson",
+    "phone": "08178901234",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-02-05T15:45:00"
+  },
+  {
+    "id": "usr-010",
+    "email": "james@example.com",
+    "password": "pass369",
+    "full_name": "James Brown",
+    "phone": "08189012345",
+    "role": "user",
+    "is_active": true,
+    "created_at": "2024-02-07T09:30:00"
+  },
+  {
+    "id": "usr-011",
+    "email": "admin2@eventhub.id",
+    "password": "admin456",
+    "full_name": "Admin Support",
+    "phone": "08123456788",
+    "role": "admin",
+    "is_active": true,
+    "created_at": "2024-01-02T00:00:00"
+  }
+]

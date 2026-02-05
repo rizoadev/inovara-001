@@ -1,0 +1,42 @@
+[
+  {
+    "id": "chk-001",
+    "registration_id": "reg-001",
+    "event_id": "evt-001",
+    "user_id": "usr-002",
+    "qr_code": "EVTHUB-evt001-reg001",
+    "checked_in_at": "2024-06-15T09:15:00",
+    "checked_in_by": "usr-001",
+    "location": "Main Entrance"
+  },
+  {
+    "id": "chk-002",
+    "registration_id": "reg-004",
+    "event_id": "evt-001",
+    "user_id": "usr-004",
+    "qr_code": "EVTHUB-evt001-reg004",
+    "checked_in_at": "2024-06-15T09:30:00",
+    "checked_in_by": "usr-001",
+    "location": "Main Entrance"
+  },
+  {
+    "id": "chk-003",
+    "registration_id": "reg-009",
+    "event_id": "evt-001",
+    "user_id": "usr-009",
+    "qr_code": "EVTHUB-evt001-reg009",
+    "checked_in_at": "2024-06-15T10:00:00",
+    "checked_in_by": "usr-011",
+    "location": "Main Entrance"
+  },
+  {
+    "id": "chk-004",
+    "registration_id": "reg-016",
+    "event_id": "evt-001",
+    "user_id": "usr-008",
+    "qr_code": "EVTHUB-evt001-reg016",
+    "checked_in_at": "2024-06-15T09:45:00",
+    "checked_in_by": "usr-001",
+    "location": "VIP Entrance"
+  }
+]

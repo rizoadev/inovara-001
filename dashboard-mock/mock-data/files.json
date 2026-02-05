@@ -1,0 +1,90 @@
+[
+  {
+    "id": "file-001",
+    "registration_id": "reg-001",
+    "user_id": "usr-002",
+    "event_id": "evt-001",
+    "filename": "presentation.pdf",
+    "filetype": "application/pdf",
+    "size": 2500000,
+    "url": "/uploads/file-001.pdf",
+    "uploaded_at": "2024-06-10T14:30:00"
+  },
+  {
+    "id": "file-002",
+    "registration_id": "reg-004",
+    "user_id": "usr-004",
+    "event_id": "evt-001",
+    "filename": "slides.pptx",
+    "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "size": 3200000,
+    "url": "/uploads/file-002.pptx",
+    "uploaded_at": "2024-06-12T10:15:00"
+  },
+  {
+    "id": "file-003",
+    "registration_id": "reg-010",
+    "user_id": "usr-010",
+    "event_id": "evt-003",
+    "filename": "startup-pitch.pdf",
+    "filetype": "application/pdf",
+    "size": 1800000,
+    "url": "/uploads/file-003.pdf",
+    "uploaded_at": "2024-02-10T14:00:00"
+  },
+  {
+    "id": "file-004",
+    "registration_id": "reg-020",
+    "user_id": "usr-003",
+    "event_id": "evt-006",
+    "filename": "design-portfolio.pdf",
+    "filetype": "application/pdf",
+    "size": 4500000,
+    "url": "/uploads/file-004.pdf",
+    "uploaded_at": "2024-02-20T10:00:00"
+  },
+  {
+    "id": "file-005",
+    "registration_id": "reg-001",
+    "user_id": "usr-002",
+    "event_id": "evt-001",
+    "filename": "speaker-notes.pdf",
+    "filetype": "application/pdf",
+    "size": 1200000,
+    "url": "/uploads/file-005.pdf",
+    "uploaded_at": "2024-06-13T09:00:00"
+  },
+  {
+    "id": "file-006",
+    "registration_id": "reg-004",
+    "user_id": "usr-004",
+    "event_id": "evt-001",
+    "filename": "demo-video.mp4",
+    "filetype": "video/mp4",
+    "size": 8500000,
+    "url": "/uploads/file-006.mp4",
+    "uploaded_at": "2024-06-13T15:30:00"
+  },
+  {
+    "id": "file-007",
+    "registration_id": "reg-010",
+    "user_id": "usr-010",
+    "event_id": "evt-003",
+    "filename": "business-plan.pptx",
+    "filetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "size": 2800000,
+    "url": "/uploads/file-007.pptx",
+    "uploaded_at": "2024-02-12T11:20:00"
+  },
+  {
+    "id": "file-008",
+    "registration_id": "reg-020",
+    "user_id": "usr-003",
+    "event_id": "evt-006",
+    "filename": "wireframes.pdf",
+    "filetype": "application/pdf",
+    "size": 3100000,
+    "url": "/uploads/file-008.pdf",
+    "uploaded_at": "2024-02-21T14:45:00"
+  }
+]
